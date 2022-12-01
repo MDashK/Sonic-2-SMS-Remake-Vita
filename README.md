@@ -1,18 +1,70 @@
-# Sonic 2 SMS Remake Vita
+# Sonic SMS Remake 2 Vita
 
-A port of the fangame **Sonic 2 SMS Remake** for the **PSVita**.
+A port of the fangame **Sonic SMS Remake 2** for the **PSVita**.
 
 Official PC and Android versions on: **sonic-sms-remake.blogspot.com**
 
-**Expected bugs and issues:**
+**Highlights of the latest update:**
+
+• Fixed major memory leak **(no more crashes! \o/)**
+<br>
+• 60 FPS mode!
+<br>
+• Major optimizations overall (now the game runs at a locked 60 FPS even at stock CPU clocks)
+<br>
+• Lots of other optimizations
+
+**Side notes:**
 
 1. Competition has been removed. Unfortunately, it is not possible to implement it.
-2. UnderGround Zone Act2 needs full overclock to 500 Mhz to run at 20~24 FPS. **On PSTV**, expect a little more lag due to the PSTV running at a higher resolution.
-3. If you leave the game idleing for too long on the pause screen, it will eventually crash. I honestly have no idea why this happens. It doesn't seem to be related to the game, maybe related to either the GMS Vita executable or a plugin that is generally used by most users. Just be sure to press the PS button before turning off the screen of the console to leave it in standby.
+2. The game has been optimized to run at a locked 60 FPS even on stock CPU clocks. However, if you feel you are experiencing loss of framerate in any level of the game, it is recommended to overclock your PSVita.
+3. So that the Vita can run the game at a consistent 60 FPS with good performance, the following graphical downgrades had to be made:
+- Sky High Act 2 had to have the rain animation effect removed. The rain is static.<br>
+- Gimmick MT. zones may experience tubes popping-in while you progress in the levels. This is an object optimization that had to be made for performance.
+
 
 --------------------
 
 **Changelog:**
+
+
+**v2.9 rev.2:**
+
+- Now in 60 FPS (switch 30/60 modes)
+
+- New optimization system
+
+- New main camera
+
+- New menu: Gameplay
+
+- Updated save game icons
+
+- New sprite of Super Shadow running
+
+- New animation of big rings and red star ring
+
+- Fixed hyper Sonic and Tails sprite waiting
+
+- Under Ground boss does not kill player when exploding
+
+- Scrambled Egg boss does not lose life with spin dash
+
+- Oil Ocean boss can now be hit in the air
+
+- Option to enable/disable Air Jump
+
+- Change(Circle) button is used as a back function in the options
+
+- Removed cameras option
+
+- Super animation fix
+
+- Fixed bugs on platforms
+
+- General review of the game by Beta Testers
+
+- Updated credits
 
 
 **v2.9:**
